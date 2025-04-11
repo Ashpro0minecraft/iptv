@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-A.S.T.F Company</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style ="text/css">@media only screen and (orientation: landscape) {
+      body {
+         background-image: linear-gradient(#0003ff, #0003ff, #0003ff, #2b96ff, #2b96ff, #80eaff , #ffffff, #ffbd6a, #ff9e55, #ff7300);
+      } 
+      #k {
+          font-weight: bold;
+           color: navy;
+           }   
+    input{
+        outline: none;
+      padding: 5px;
+      border: none;
+      border-bottom: 2px solid red;
+      border-radius: 5px;
+      background:#40fff5d2;
+    }
+    input:focus{
+        border: none;
+      border-bottom: 3px solid green;
+      background: purple;
+      border-radius: 0px;
+      color:white;
+    }
+ #a {
+ background-color: #000000;
+ }
+ #r {
+ border: 10px dashed green;
+ border-radius: 10px;
+   }
+   #h {
+ border: 10px solid green;
+ border-radius:10px;
+ }
+ aside {
+ width: 30%;
+ padding-left: 30px;
+ margin-leftv 15px;
+  float: right;
+ font-style: italic;
+ background-color: gray;
+ height: 15%;
+ float: right;
+  }
+  h1 {
+     font-size: 80px;
+    color:navy; 
+ }
+ #pp
+ {
+     float: right;
+     padding: 0px 15px;
+ }
+ #l {
+    float:left;
+    padding-top: 30px;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      padding-left: 30px;
+}  
+#rr{
+    float:right;
+    padding: 30px;
+    }
+    #ss{
+    float: auto;
+    padding-top: 50px;
+      padding-right: 10px;
+      padding-bottom: 0px;
+      padding-left: 20px;
+      }
+      button {
+      font-family: sans-serif;
+      border: 2px solid gray;
+      padding: 6px 15px;
+      font-size: 20px;
+      outline: none;
+      border-radius: 3px;
+      background:#9c3a34;
+      font-weight:bold;
+    }
+ }
+ @media only screen and (orientation: portrait) {
+      body {
+        background-image: linear-gradient(#0003ff, #0003ff, #0003ff, #2b96ff, #2b96ff, #80eaff , #ffffff, #ffbd6a, #ff9e55, #ff7300);
+      }
+       #r{
+ border: 10px dashed green;
+ border-radius: 10px;
+   }
+   #h {
+  border: 10px solid green;
+  border-radius:10px;
+  }
+   h1 {
+        font-size: 60px;
+        color: navy;
+    }
+    #k {
+          font-weight: bold;
+           color: navy;
+           }   
+    input{
+        outline: none;
+      padding: 5px;
+      border: none;
+      border-bottom: 2px solid red;
+      border-radius: 5px;
+      background:#40fff5d2;
+    }
+    input:focus{
+        border: none;
+      border-bottom: 3px solid green;
+      background: purple;
+      border-radius: 0px;
+      color:white;
+    }
+    aside {
+    text-align: center;
+    background-color:gray; 
+    }
+    #pp {
+  width: auto;
+  padding: 30px 0px;
+}
+#rr{
+    float:right;
+    }
+ #l{
+     float:left;
+    }
+    button {
+      font-family: sans-serif;
+      border: 2px solid gray;
+      padding: 6px 15px;
+      font-size: 20px;
+      outline: none;
+      border-radius: 3px;
+      background:#9c3a34;
+      font-weight:bold;
+    }
+    }
+ </style>
+</head>
+<body>
+    <div style="background-color :#FF66FF">
+<hr id="r">
+<center>
+<h1> E-A.S.T.F Company</h1><hr id="h"></div>
+<h2 style="text-align :center "><b>Registration Form</b></h2>
+</center>
+<form action="success.html" method="POST">
+    <input type="hidden" name="access_key" value="2a176b87-84f1-4c52-bdd7-8c3a3afe0094">
+    <label for="fn" id="k">First name:</label>
+<input type="text" id="fn" name="fname"><br>
+<br>
+<br>
+<label for="ln" id="k">Last name:</label>
+<input type="text" id="ln" name="lastn"><br>
+<br>
+<br>
+<label for="us" id="k">Create username:</label>
+<input type="text" id="us" name="usname" max="16"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div id="pp">
+<label for="p" id="k">CHOOSE PASSWORD:</label>
+<input type="password" id="p" name="p.w" maxlength="8">
+</div><br><br>
+<aside><h2>NOTE:Username and password will be used to login E-A.S.T.F Company</h2></aside><br><br><br><br><br>
+<h3>Select Gender:</h3><br>
+<div id="l">
+<input type="radio" id="m" name="gender" value="MALE">
+<label  for="m" id="k">MALE</label></div><div id="rr">
+<input type="radio" id="f" name="gender" value="FEMALE">
+<label for="f" id="k">FEMALE</label></div><br>
+<div id="ss">
+<h3>Select your age:</h3>
+<input id="ab" type="radio" name="age" value="3-7 yrs">
+<label for="ab" id="k">3-7 yrs</label><br><br>
+<input id="abb" type="radio"name="age" value="7-11 yrs">
+<label id="abb" style="font-weight: bold; color:navy">7-11 yrs</label><br><br>
+<input id="abc" type="radio" name="age" value="11-16 yrs" >
+<label for="abc" id="k">11-16 yrs</label>
+</div><br>
+<input type="hidden" name="redirect" value="success.html">
+<p><i> YOUR DEBIT CARD WILL SENT TO YOUR GMAIL<br> NEXT MONTH</i></p><br>
+<label for="email"><b style="color: navy">EMAIL:</b></label>
+<input type="email" id="email" name="email"><br><br><br>
+<center>
+<button type="submit" onclick="myfunc()">REGISTER</button>
+</center>
+</form>
+<script>
+function myfunc() {
+    window.location.assign("success.html")
+}
+</script>
+</body>
+</html>
