@@ -1,6 +1,5 @@
-×××××××××××××× SAMSUNG TV PLUS ×××××××××××××××××
-
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Spain",¡Hola! Play
 https://jmp2.uk/sam-ESBA1400008NE.m3u8
