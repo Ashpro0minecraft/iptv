@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 
 #EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
