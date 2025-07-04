@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1751681334~acl=%2f*~data=hdntl~hmac=3e06f6dea6f4abfd1dab265aef3196e92fdd29fe6d2f4259d2e8116c0f691c1e
