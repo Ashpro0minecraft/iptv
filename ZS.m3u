@@ -1,0 +1,141 @@
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",SET HD
+https://allinonereborn.fun/sonylive12/index.php?ch=SETHD&id=2011671
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony SAB HD
+https://allinonereborn.fun/sonylive12/index.php?ch=SABHD&id=2011749
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony PAL
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyPalSD&id=2011741
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony YAY
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyYaySD&id=2011746
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony AATH
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyAathSD&id=2011641
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony Marathi
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyMarathi&id=2011740
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony BBC Earth HD
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony PIX HD
+https://allinonereborn.fun/sonylive12/index.php?ch=PIXHD&id=2011748
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony WAH
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyWah&id=2011906
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony MAX
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyMaxSD&id=2011745
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony MAX HD
+https://allinonereborn.fun/sonylive12/index.php?ch=SonyMaxhd&id=2011670
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony MAX2
+https://allinonereborn.fun/sonylive12/index.php?ch=MAX2&id=2011908
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 1
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN1SD&id=2011739
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 2
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN2SD&id=2020590
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 3
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN3SD&id=2020592
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 4
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN4SD&id=2020437
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 5
+https://allinonereborn.fun/sonylive12/index.php?ch=SONYSIXSD&id=2020594
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 1 HD
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN1HD&id=2011747
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 2 HD
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN2HD&id=2020434
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 3 HD
+https://allinonereborn.fun/sonylive12/index.php?ch=TEN3HD&id=2020591
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 4 HD
+https://allinonereborn.fun/sonylive12/index.php?ch=ten4hd&id=2020589
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV" group-logo="https://i.ibb.co/q9b5TMJ/fallback-sonyliv-logo-1.png",Sony TEN 5 HD
+https://allinonereborn.fun/sonylive12/index.php?ch=SONYSIXHD&id=2020593
+#EXTINF:-1 tvg-id="245893" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="zee5",IND-Bangla: Zee Bangla HD
+https://allinonereborn.fun/op143/index.php?id=245893
+#EXTINF:-1 tvg-id="245897" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="zee5",IND-Bangla: Zee Bangla Cinema
+https://allinonereborn.fun/op143/index.php?id=245897
+#EXTINF:-1 tvg-id="238605" tvg-name="Af | DSTV: Zee World" tvg-logo="http://vod-logo.net/photos/11bd2de00ea89eadae739ea2dd518d99.jpg" group-title="zee5",Af | DSTV: Zee World
+https://allinonereborn.fun/op143/index.php?id=238605
+#EXTINF:-1 tvg-id="109950" tvg-name="ZEE TV (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="zee5",ZEE TV (4K)
+https://allinonereborn.fun/op143/index.php?id=109950
+#EXTINF:-1 tvg-id="109958" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="zee5",ZEE CINEMA (4K)
+https://allinonereborn.fun/op143/index.php?id=109958
+#EXTINF:-1 tvg-id="221250" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="zee5",IN | Zee TV
+https://allinonereborn.fun/op143/index.php?id=221250
+#EXTINF:-1 tvg-id="66162" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="zee5",IN | Zee TV HD
+https://allinonereborn.fun/op143/index.php?id=66162
+#EXTINF:-1 tvg-id="66163" tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="zee5",IN | Zee TV [FHD]
+https://allinonereborn.fun/op143/index.php?id=66163
+#EXTINF:-1 tvg-id="221261" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IN | ZEE CINEMA FHD (TATASKY)
+https://allinonereborn.fun/op143/index.php?id=221261
+#EXTINF:-1 tvg-id="206307" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IN | ZEE CINEMA HD
+https://allinonereborn.fun/op143/index.php?id=206307
+#EXTINF:-1 tvg-id="206308" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IN | ZEE CINEMA [FHD]
+https://allinonereborn.fun/op143/index.php?id=206308
+#EXTINF:-1 tvg-id="206268" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IND: Zee Cinema USA
+https://allinonereborn.fun/op143/index.php?id=206268
+#EXTINF:-1 tvg-id="66187" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="zee5",IN | Zee Anmol Cinema
+https://allinonereborn.fun/op143/index.php?id=66187
+#EXTINF:-1 tvg-id="66191" tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="zee5",IN | ZEE ACTION
+https://allinonereborn.fun/op143/index.php?id=66191
+#EXTINF:-1 tvg-id="66201" tvg-name="IN | ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="zee5",IN | ZEE CLASSIC
+https://allinonereborn.fun/op143/index.php?id=66201
+#EXTINF:-1 tvg-id="66357" tvg-name="IN | Zee Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="zee5",IN | Zee Anmol
+https://allinonereborn.fun/op143/index.php?id=66357
+#EXTINF:-1 tvg-id="112970" tvg-name="IN: |UK| ZEE CINEMA UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IN: |UK| ZEE CINEMA UK
+https://allinonereborn.fun/op143/index.php?id=112970
+#EXTINF:-1 tvg-id="112976" tvg-name="IN: ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="zee5",IN: ZEE TV CANADA
+https://allinonereborn.fun/op143/index.php?id=112976
+#EXTINF:-1 tvg-id="206271" tvg-name="IND: Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="zee5",IND: Zee Cinema SD
+https://allinonereborn.fun/op143/index.php?id=206271
+#EXTINF:-1 tvg-id="206277" tvg-name="IN | ZEE AFLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="zee5",IN | ZEE AFLAM
+https://allinonereborn.fun/op143/index.php?id=206277
+#EXTINF:-1 tvg-id="207200" tvg-name="IN: ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="zee5",IN: ZEE Bollywood
+https://allinonereborn.fun/op143/index.php?id=207200
+#EXTINF:-1 tvg-id="66287" tvg-name="IN | Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="zee5",IN | Zee Cafe HD
+https://allinonereborn.fun/op143/index.php?id=66287
+#EXTINF:-1 tvg-id="244415" tvg-name="IND: Zee Punjabi" group-title="zee5",IND: Zee Punjabi
+https://allinonereborn.fun/op143/index.php?id=244415
+#EXTINF:-1 tvg-id="244417" tvg-name="IND: Zee Punjab Haryana Himachal Pradesh" group-title="zee5",IND: Zee Punjab Haryana Himachal Pradesh
+https://allinonereborn.fun/op143/index.php?id=244417
+#EXTINF:-1 tvg-id="250844" tvg-name="IND: TG: ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="zee5",IND: TG: ZEE TELUGU
+https://allinonereborn.fun/op143/index.php?id=250844
+#EXTINF:-1 tvg-id="381108" tvg-name="IND: TG: ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="zee5",IND: TG: ZEE CINEMALU HD
+https://allinonereborn.fun/op143/index.php?id=381108
+#EXTINF:-1 tvg-id="380984" tvg-name="IN-TM | ZEE THIRAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="zee5",IN-TM | ZEE THIRAI
+https://allinonereborn.fun/op143/index.php?id=380984
+#EXTINF:-1 tvg-id="380970" tvg-name="IN-TM | ZEE TAMIL FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="zee5",IN-TM | ZEE TAMIL FHD
+https://allinonereborn.fun/op143/index.php?id=380970
+#EXTINF:-1 tvg-id="380870" tvg-name="IN-MY | ZEE KERALAM FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" group-title="zee5",IN-MY | ZEE KERALAM FHD
+https://allinonereborn.fun/op143/index.php?id=380870
+#EXTINF:-1 tvg-id="383033" tvg-name="IN-MAR | ZEE MARATHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="zee5",IN-MAR | ZEE MARATHI
+https://allinonereborn.fun/op143/index.php?id=383033
+#EXTINF:-1 tvg-id="380816" tvg-name="IN-MAR | ZEE MARATHI HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="zee5",IN-MAR | ZEE MARATHI HD
+https://allinonereborn.fun/op143/index.php?id=380816
+#EXTINF:-1 tvg-id="380818" tvg-name="IN-MAR | ZEE TALKIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Talkies.png" group-title="zee5",IN-MAR | ZEE TALKIES FHD
+https://allinonereborn.fun/op143/index.php?id=380818
+#EXTINF:-1 tvg-id="380837" tvg-name="IN-MAR | ZEE YUVA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png" group-title="zee5",IN-MAR | ZEE YUVA
+https://allinonereborn.fun/op143/index.php?id=380837
+#EXTINF:-1 tvg-id="380859" tvg-name="IN-MAR | Zee Chitra Mandir" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cithra-copy.png" group-title="zee5",IN-MAR | Zee Chitra Mandir
+https://allinonereborn.fun/op143/index.php?id=380859
+#EXTINF:-1 tvg-id="380850" tvg-name="IN-MAR | ZEE 24 TAAS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tas.png" group-title="zee5",IN-MAR | ZEE 24 TAAS
+https://allinonereborn.fun/op143/index.php?id=380850
+#EXTINF:-1 tvg-id="381286" tvg-name="IN-GUJ | ZEE 24 KALAK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-24-Kalak.png" group-title="zee5",IN-GUJ | ZEE 24 KALAK
+https://allinonereborn.fun/op143/index.php?id=381286
+#EXTINF:-1 tvg-id="381246" tvg-name="IN-ODIA | ZEE SARTHAK TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Sarthak.png" group-title="zee5",IN-ODIA | ZEE SARTHAK TV
+https://allinonereborn.fun/op143/index.php?id=381246
+#EXTINF:-1 tvg-id="381239" tvg-name="IN-KN | Zee Kannada News" group-title="zee5",IN-KN | Zee Kannada News
+https://allinonereborn.fun/op143/index.php?id=381239
+#EXTINF:-1 tvg-id="381202" tvg-name="IN-KN | ZEE TV KANNADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Kannada.png" group-title="zee5",IN-KN | ZEE TV KANNADA
+https://allinonereborn.fun/op143/index.php?id=381202
+#EXTINF:-1 tvg-id="381240" tvg-name="IN-KN | ZEE PICCHAR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Picchar.png" group-title="zee5",IN-KN | ZEE PICCHAR
+https://allinonereborn.fun/op143/index.php?id=381240
+#EXTINF:-1 tvg-id="244801" tvg-name="IND: Zee Madhya Pradesh Chhattisgarh News" group-title="zee5",IND: Zee Madhya Pradesh Chhattisgarh News
+https://allinonereborn.fun/op143/index.php?id=244801
+#EXTINF:-1 tvg-id="244802" tvg-name="IND: Zee Rajasthan News" group-title="zee5",IND: Zee Rajasthan News
+https://allinonereborn.fun/op143/index.php?id=244802
+#EXTINF:-1 tvg-id="244803" tvg-name="IND: Zee News" group-title="zee5",IND: Zee News
+https://allinonereborn.fun/op143/index.php?id=244803
+#EXTINF:-1 tvg-id="244820" tvg-name="IND: India News MP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Rajasthan-News.png" group-title="zee5",IND: India News MP
+https://allinonereborn.fun/op143/index.php?id=244820
+#EXTINF:-1 tvg-id="341135" tvg-name="IN: Zee Business" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Business.png" group-title="zee5",IN: Zee Business
+https://allinonereborn.fun/op143/index.php?id=341135
+#EXTINF:-1 tvg-id="109952" tvg-name="&tv (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="zee5",&tv (4K)
+https://allinonereborn.fun/op143/index.php?id=109952
+#EXTINF:-1 tvg-id="109955" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="zee5",&pictures (4K)
+https://allinonereborn.fun/op143/index.php?id=109955
