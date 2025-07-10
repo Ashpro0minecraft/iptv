@@ -47,7 +47,7 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 https://ashpro0minecraft.github.io/JTV/jtv.m3u
 ```
 
-📡 airtel 3:
+📡 Airtel:
 ``` 
 https://ashpro0minecraft.github.io/JTV/artl.m3u
 ```
@@ -57,7 +57,7 @@ https://ashpro0minecraft.github.io/JTV/artl.m3u
 https://ashpro0minecraft.github.io/JTV/z5.m3u
 ```
 
-📡Dish tv: 
+📡Dish TV: 
 ```
 https://ashpro0minecraft.github.io/iptv/dtv.m3u
 ```
@@ -113,7 +113,7 @@ https://ashpro0minecraft.github.io/JTV/jiotv.m3u
 
 🤝 1. ALLINONEREBORN For `Zee and Sony Liv Global` 
 
-🤝 `Dishtv`
+🤝 `Dish TV`
 
 🤝`Samsung TV Plus`
 
@@ -180,6 +180,7 @@ This repository is for educational and non-commercial purposes only.
 ⭐ <span style="font-size:1.3em;">Star this Repo!</span>
 
 If you find this useful, give it a ⭐ to stay updated with new playlist drops and improvements.
+This Required a Lots of Research.
 
 
 ---
