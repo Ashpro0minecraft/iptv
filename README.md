@@ -37,29 +37,65 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 
 🔗 <span style="font-size:1.3em;">IPTV Playlist Links</span>
 
-📡 Jiotstar 1: ``` https://ashpro0minecraft.github.io/JTV/jstar.m3 ```
+📡 Jiotstar 1: 
+```
+ https://ashpro0minecraft.github.io/JTV/jstar.m3 
+```
 
-📡 Jiostar 2: ```https://ashpro0minecraft.github.io/JTV/jtv.m3u```
+📡 Jiostar 2: 
+```
+https://ashpro0minecraft.github.io/JTV/jtv.m3u
+```
 
-📡 airtel 3:``` https://ashpro0minecraft.github.io/JTV/artl.m3u```
+📡 airtel 3:
+``` 
+https://ashpro0minecraft.github.io/JTV/artl.m3u
+```
 
-📡Zee5 : ```https://ashpro0minecraft.github.io/JTV/z5.m3u```
+📡Zee5 : 
+```
+https://ashpro0minecraft.github.io/JTV/z5.m3u
+```
 
-📡Dish tv: ```https://ashpro0minecraft.github.io/iptv/dtv.m3u```
+📡Dish tv: 
+```
+https://ashpro0minecraft.github.io/iptv/dtv.m3u
+```
 
-📡Zee and Sony Liv Global 🌏:``` https://ashpro0minecraft.github.io/iptv/ZS.m3u```
+📡Zee and Sony Liv Global 🌏:
+```
+https://ashpro0minecraft.github.io/iptv/ZS.m3u
+```
 
-📡 SONY 1:``` https://ashpro0minecraft.github.io/iptv/sony.m3u```
+📡 SONY 1:
+```
+https://ashpro0minecraft.github.io/iptv/sony.m3u
+```
 
-📡SONY 2: ```https://ashpro0minecraft.github.io/iptv/sony2.m3u```
+📡SONY 2: 
+```
+https://ashpro0minecraft.github.io/iptv/sony2.m3u
+```
 
-📡SONY 3: ```https://ashpro0minecraft.github.io/iptv/sony3.m3u```
+📡SONY 3: 
+```
+https://ashpro0minecraft.github.io/iptv/sony3.m3u
+```
 
-📡Samsung TV Plus:``` https://ashpro0minecraft.github.io/iptv/stvplus.m3u```
+📡Samsung TV Plus:
+```
+https://ashpro0minecraft.github.io/iptv/stvplus.m3u
+```
 
-📡Jiostar 3:``` https://ashpro0minecraft.github.io/JTV/jiotv.m3u```
+📡Jiostar 3:
+```
+https://ashpro0minecraft.github.io/JTV/jiotv.m3u
+```
 
-📡Jiotstar 4:``` https://ashpro0minecraft.github.io/JTV/jiotvplus.m3u```
+📡Jiotstar 4:
+```
+https://ashpro0minecraft.github.io/JTV/jiotvplus.m3u
+```
 
 ---
 
@@ -115,13 +151,7 @@ See the [LICENSE](LICENSE.md) file for details.
 https://avkb.short.gy/epg.xml.gz
 ```
 
-2️⃣`[ 2. JIOTV]`<br>
-
-```py
-https://avkb.short.gy/jioepg.xml.gz
-```
-
-3️⃣ `[ 3. TATAPLAY ]`<br>
+2️⃣ `[ 2. TATAPLAY ]`<br>
 
 ```py
 https://avkb.short.gy/tsepg.xml.gz
@@ -130,6 +160,17 @@ By [mitthu786](https://github.com/mitthu786/tvepg)
  
 <h4 align='center'>© 𝟮𝟬𝟮𝟭-𝟮𝟯 𝗧𝗲𝗰𝗵𝗶𝗲𝗦𝗻𝗲𝗵</h4>
 
+
+---
+
+New Jistar EPG ALL Star Channel GUIDE Provided
+---
+
+1️⃣`[Jiostar EPG]`
+
+```py
+https://tsepg.cf/jio.xml.gz
+```
 
 ---
 
