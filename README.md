@@ -163,7 +163,7 @@ By [mitthu786](https://github.com/mitthu786/tvepg)
 
 ---
 
-New Jistar EPG ALL Star Channel GUIDE Provided
+New Jiostar EPG ALL Star Channel GUIDE Provided
 ---
 
 1️⃣`[Jiostar EPG]`
