@@ -17,7 +17,7 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 
 - 📄 `.m3u` Playlists  
 - 🌐 Sourced from open web
-- 🙏[yuvraj824](https://github.com/yuvraj824) deserves a Special Thanks for Providing Cookies.
+- ⭐️[yuvraj824](https://github.com/yuvraj824) deserves a Special Thanks for Providing Cookies.
 - 🙏 Thanks to [alex4528](https://github.com/alex4528)  
 
 ---
