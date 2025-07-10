@@ -1,6 +1,6 @@
 Proprietary License
 
-Copyright (c) 2025 Ashpro0minecraft Iptv
+Copyright (c) 2025 Ashpro0minecraft iptv
 
 All rights reserved.
 
