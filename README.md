@@ -16,7 +16,8 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 ## 🛠️ <span style="font-size:1.3em;">Tech Stack</span>
 
 - 📄 `.m3u` Playlists  
-- 🌐 Sourced from open web  
+- 🌐 Sourced from open web
+- 🙏[yuvraj824](https://github.com/yuvraj824) deserves a Special Thanks for Providing Cookies.
 - 🙏 Thanks to [alex4528](https://github.com/alex4528)  
 
 ---
@@ -104,6 +105,8 @@ https://ashpro0minecraft.github.io/JTV/jiotv.m3u
 ---
 
 🙌 <span style="font-size:1.3em;">Credits</span>
+
+⭐️[yuvraj824](https://github.com/yuvraj824)
 
 🧠 alex4528:
  1.`Airtel`
