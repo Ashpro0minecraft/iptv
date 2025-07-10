@@ -86,15 +86,9 @@ https://ashpro0minecraft.github.io/iptv/sony3.m3u
 ```
 https://ashpro0minecraft.github.io/iptv/stvplus.m3u
 ```
-
-📡Jiostar 3:
+📡Jiotstar 3:
 ```
 https://ashpro0minecraft.github.io/JTV/jiotv.m3u
-```
-
-📡Jiotstar 4:
-```
-https://ashpro0minecraft.github.io/JTV/jiotvplus.m3u
 ```
 
 ---
@@ -119,15 +113,13 @@ https://ashpro0minecraft.github.io/JTV/jiotvplus.m3u
 
 🤝 1. ALLINONEREBORN For `Zee and Sony Liv Global` 
 
-🤝 2. ALLINONEREBORN For `Jiostar3`
-
 🤝 `Dishtv`
 
 🤝`Samsung TV Plus`
 
 🤝`SONY 1,2&3`
 
-🤝`Jiostar4`
+🤝`Jiostar3`
 
 🌍 To the open-source IPTV community
 
