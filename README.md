@@ -53,6 +53,12 @@ https://ashpro0minecraft.github.io/JTV/jtv.m3u
 https://ashpro0minecraft.github.io/JTV/artl.m3u
 ```
 
+📡 Cricket:
+``` 
+https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
+```
+
+
 📡Zee5 : 
 ```
 https://ashpro0minecraft.github.io/JTV/z5.m3u
@@ -111,6 +117,8 @@ https://ashpro0minecraft.github.io/iptv/stvplus.m3u
 4. `ZEE5`
 
 🤝 1. ALLINONEREBORN For `Zee and Sony Liv Global` 
+
+🤝 [ABU SAID](https://github.com/said7388?tab=overview&from=2025-06-01&to=2025-06-30) For `Cricket`
 
 🤝 `Dish TV`
 
