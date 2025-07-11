@@ -87,10 +87,6 @@ https://ashpro0minecraft.github.io/iptv/sony3.m3u
 ```
 https://ashpro0minecraft.github.io/iptv/stvplus.m3u
 ```
-📡Jiotstar 3:
-```
-https://ashpro0minecraft.github.io/JTV/jiotv.m3u
-```
 
 ---
 
