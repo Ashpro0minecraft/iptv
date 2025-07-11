@@ -118,8 +118,6 @@ https://ashpro0minecraft.github.io/iptv/stvplus.m3u
 
 🤝`SONY 1,2&3`
 
-🤝`Jiostar3`
-
 🌍 To the open-source IPTV community
 
 
