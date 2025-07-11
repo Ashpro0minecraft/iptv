@@ -40,7 +40,7 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 
 📡 Jiotstar 1: 
 ```
- https://ashpro0minecraft.github.io/JTV/jstar.m3 
+ https://ashpro0minecraft.github.io/JTV/jstar.m3u
 ```
 
 📡 Jiostar 2: 
