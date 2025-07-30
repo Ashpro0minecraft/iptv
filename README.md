@@ -13,6 +13,9 @@ This is a free and public IPTV playlist repo created by [**Ashpro0minecraft**](h
 
 ---
 
+## 🤝 <span style="font-size:1.3em;">Project Sponsored By:-</span>
+
+<strong><em>Join for free netflix and all things [Unlock Empire OTT Genie⚡️](https://t.me/allkeyavailable).</em></strong>
 ## 🛠️ <span style="font-size:1.3em;">Tech Stack</span>
 
 - 📄 `.m3u` Playlists  
@@ -87,6 +90,10 @@ https://ashpro0minecraft.github.io/iptv/sony2.m3u
 📡SONY 3: 
 ```
 https://ashpro0minecraft.github.io/iptv/sony3.m3u
+```
+📡SONY 3: 
+```
+https://ashpro0minecraft.github.io/iptv/sony4.m3u
 ```
 
 📡Samsung TV Plus:
