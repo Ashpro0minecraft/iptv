@@ -91,7 +91,7 @@ https://ashpro0minecraft.github.io/iptv/sony2.m3u
 ```
 https://ashpro0minecraft.github.io/iptv/sony3.m3u
 ```
-📡SONY 3: 
+📡SONY 4: 
 ```
 https://ashpro0minecraft.github.io/iptv/sony4.m3u
 ```
